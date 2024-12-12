@@ -1,0 +1,10 @@
+.*
+
+!.gitignore
+
+lab3/.*
+lab3/Debug
+lab3/Drivers
+lab3/*.ld
+lab3/*.launch
+lab3/Core/Startup
